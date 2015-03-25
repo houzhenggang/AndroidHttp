@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleAndroidHttp</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- 常规dialog -->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="exit">退出</string>
+
+      <!-- 程序出错dialog -->
+    <string name="app_error">程序出错啦！</string>
+    <string name="app_error_description">请把错误报告提交给我们，谢谢！</string>
+    <string name="title_activity_recruit_index">RecruitIndexActivity</string>
+    <string name="title_activity_enterprise_name">EnterpriseNameActivity</string>
+</resources>
